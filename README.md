@@ -1,0 +1,1 @@
+# external-component-example
